@@ -6,7 +6,7 @@
         ficha20
       </h1>
       <h2 class="subtitle">
-        My sweet Nuxt.js project
+        My sweet Nuxt.js project.
       </h2>
       <div class="links">
         <a
